@@ -1,8 +1,8 @@
 import type { Site, SocialObjects, OG_Type } from "./types";
 
 export const SITE: Site = {
-    website: "https://daily-poetry-image.vercel.app/",
-    author: "liruifengv",
+    website: "https://daily-poetry-image-bice.vercel.app",
+    author: "AnyAsk",
     title: "Daily Poetry Images",
     desc: "每天一句中国古诗词，生成 AI 图片 Powered by Bing DALL-E-3.",
 };
